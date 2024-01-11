@@ -1,0 +1,4 @@
+C:\Users\Daniel\source\repos\Sist_Prog_Sav_2_v1.0\x64\Debug\Sist_Prog_Sav_2_v1.0.vcxproj.AssemblyReference.cache
+C:\Users\Daniel\source\repos\Sist_Prog_Sav_2_v1.0\x64\Debug\Sist_Prog_Sav_2_v1_0.Form1.resources
+C:\Users\Daniel\source\repos\Sist_Prog_Sav_2_v1.0\x64\Debug\Sist_Prog_Sav_2_v1.0.vcxproj.GenerateResource.cache
+C:\Users\Daniel\source\repos\Sist_Prog_Sav_2_v1.0\x64\Debug\Sist_Prog_Sav_2_v1.0.exe

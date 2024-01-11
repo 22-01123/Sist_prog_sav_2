@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  CppCLR_WinFormsProject.cpp
+  Form1.cpp
+  Generating Code...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Sist_Prog_Sav_2_v1.0.vcxproj -> C:\Users\Daniel\source\repos\Sist_Prog_Sav_2_v1.0\x64\Debug\Sist_Prog_Sav_2_v1.0.exe
